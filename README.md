@@ -5,8 +5,8 @@ Garimpar dados de outros web sites
 Pegar as ultimas imagens do instagram, para adicionar a nossa página web.
 <br><br><br>
 ### Desafios
-[ x ] Criar um backend que irá se conectar com o instagram <br>
-[ ] Garimpar dados <br>
-[ ] Preparar dados<br>
-[ ] Salvar os dados em um arquivo local<br>
-[ ] Consumir dados do nosso arquivo local<br>
+[x] Criar um backend que irá se conectar com o instagram <br>
+[] Garimpar dados <br>
+[] Preparar dados<br>
+[] Salvar os dados em um arquivo local<br>
+[] Consumir dados do nosso arquivo local<br>
